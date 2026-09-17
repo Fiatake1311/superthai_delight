@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "superthai_delight:item/isan_style_meat_salad"
+  }
+}

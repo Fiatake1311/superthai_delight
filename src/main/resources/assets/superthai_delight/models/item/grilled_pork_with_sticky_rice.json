@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "superthai_delight:item/grilled_pork_with_sticky_rice"
+  }
+}
